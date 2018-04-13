@@ -40,7 +40,7 @@ int main(){
 
     for(int i = 0 ;i < ninputs ;i++){
         for(int j=0 ;j < nstari ;j++){
-            cout << "\n(q" << j  << " , " << c[i] << ") = q";
+            cout << "s(q" << j  << " , " << c[i] << ") = q";
             cin >>afd[i][j];
         }
     }
